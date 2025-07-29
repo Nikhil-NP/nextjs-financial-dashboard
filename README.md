@@ -17,5 +17,6 @@ pnpm dev
 
 to run code :
     cd nextjs-dashboard
-    npm run dev 
-    
+    pnpm run dev 
+
+project live at: https://nextjs-financial-dashboard-dusky.vercel.app/dashboard
