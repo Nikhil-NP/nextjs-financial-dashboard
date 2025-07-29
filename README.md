@@ -12,3 +12,10 @@ npx create-next-app@latest nextjs-dashboard --example "https://github.com/vercel
 pnpm i  
 
 pnpm dev
+
+
+
+to run code :
+    cd nextjs-dashboard
+    npm run dev 
+    
