@@ -1,5 +1,5 @@
 import SideNav from "../ui/dashboard/sidenav";
-
+//export const experimental_ppr = true; was observing the stating rendering 
 
 export default function Layout({ children } : {children:React.ReactNode}){
     return(
