@@ -1,6 +1,6 @@
 # Next.js Financial Dashboard
 
-This was part of the approch to understand nextjs better:
+This was part of my approch to understand nextjs better:
 This project is based on the [Next.js Learn Dashboard App](https://nextjs.org/learn/dashboard-app)  by Vercel.  
 It demonstrates a full-stack dashboard with authentication, CRUD operations, and a Postgres database (Neon) using the Next.js App Router.
 
